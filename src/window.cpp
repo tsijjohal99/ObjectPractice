@@ -1,7 +1,7 @@
 #include "../include/window.h"
 #include <iostream>
 
-namespace window {
+//namespace window {
 
     void window::open() {
         if (doesOpen) {
@@ -26,4 +26,4 @@ namespace window {
     void window::lookOut() {
         std::cout << "<window gets looked out of>" << std::endl;
     }
-}
+//}

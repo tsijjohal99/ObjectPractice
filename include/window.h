@@ -1,7 +1,7 @@
 #pragma once
 #include <iostream>
 
-namespace window {
+//namespace window {
     class window {
         private:
             int noOfPlanes;
@@ -24,4 +24,4 @@ namespace window {
             void smash();
             void lookOut();
     };
-}
+//}

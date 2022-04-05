@@ -3,7 +3,8 @@
 
 int main() {
 
-    window::window BedroomWindow(2, true, "dirty", true, "blue");
+    //window:: 
+    window BedroomWindow(2, true, "dirty", true, "blue");
 
     BedroomWindow.open();
     BedroomWindow.lookOut();
